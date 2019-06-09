@@ -6,13 +6,6 @@ public class PersonTest {
         name = new Name("Paul", "Johnson");
         System.out.println(name.toString());
 
-        Name tanvir = new Name("Tanvir","Islam");
-        System.out.println(tanvir.toString());
-        tanvir.setFirstName("Tawhid");
-        System.out.println(tanvir.toString());
-
-
-
     }
 
 }
